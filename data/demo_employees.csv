@@ -1,0 +1,25 @@
+employee_id,department,job_role,age,gender,education,monthly_income,years_at_company,job_satisfaction,overtime,attrition,hire_date
+1001,Research & Development,Research Scientist,29,Female,Bachelors,4200,3,4,No,No,2021-03-15
+1002,Sales,Sales Executive,41,Male,Masters,7100,8,3,Yes,No,2016-06-01
+1003,Human Resources,HR Specialist,35,Female,Bachelors,3900,6,4,No,No,2018-08-20
+1004,Research & Development,Laboratory Technician,24,Male,High School,2800,2,2,Yes,Yes,2022-01-10
+1005,Sales,Sales Representative,31,Female,Bachelors,4600,4,3,No,No,2020-09-07
+1006,Research & Development,Research Scientist,46,Male,Doctorate,8900,15,4,No,No,2009-11-02
+1007,Human Resources,HR Manager,39,Male,Masters,7600,11,3,Yes,No,2013-02-18
+1008,Sales,Sales Executive,27,Female,Masters,5400,3,2,Yes,Yes,2021-07-12
+1009,Research & Development,Manufacturing Director,52,Female,Masters,9800,20,4,No,No,2004-04-26
+1010,Sales,Sales Executive,33,Male,Bachelors,6100,7,3,No,No,2017-05-14
+1011,Human Resources,HR Specialist,28,Female,Bachelors,3500,2,3,Yes,No,2022-10-03
+1012,Research & Development,Laboratory Technician,30,Male,High School,3200,5,2,Yes,Yes,2019-12-09
+1013,Sales,Sales Manager,48,Female,Doctorate,11200,17,4,No,No,2007-08-22
+1014,Research & Development,Research Scientist,37,Female,Masters,6800,9,3,No,No,2015-01-05
+1015,Human Resources,HR Specialist,44,Male,Bachelors,4400,13,2,No,Yes,2011-06-16
+1016,Sales,Sales Representative,26,Male,High School,3000,1,3,Yes,No,2023-04-10
+1017,Research & Development,Research Director,55,Male,Doctorate,13500,24,4,No,No,2000-02-28
+1018,Sales,Sales Executive,36,Female,Masters,6900,10,3,No,No,2014-09-01
+1019,Human Resources,HR Manager,50,Female,Masters,9200,19,4,No,No,2005-03-30
+1020,Research & Development,Laboratory Technician,32,Female,Bachelors,3700,6,2,Yes,No,2018-04-11
+1021,Sales,Sales Representative,29,Male,Bachelors,4100,3,3,Yes,Yes,2021-11-19
+1022,Research & Development,Manufacturing Director,43,Female,Masters,8400,14,4,No,No,2010-07-27
+1023,Human Resources,HR Specialist,33,Male,Bachelors,4050,5,3,No,No,2019-02-04
+1024,Sales,Sales Executive,39,Female,Masters,7800,12,2,Yes,Yes,2012-10-15
