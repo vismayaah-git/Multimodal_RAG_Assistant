@@ -140,7 +140,3 @@ Run the helper-function tests from the project folder:
 - If Groq is enabled, the question and retrieved evidence are sent to that
   external service.
 - Do not use this demo to make employment decisions.
-
-## Author
-
-[Vismaya on GitHub](https://github.com/vismayaah-git)
